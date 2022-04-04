@@ -17,7 +17,7 @@ A simple web app to have fun learning some Serbian words.
 
 ```shell
 
-$ git clone https://gitlab.com/weborigo/weborigo-interview-tasks/frontend/medior/diego-melo.git .
+$ git clone https://github.com/diegommelo/weborigo.git .
 
 $ npm install
 
